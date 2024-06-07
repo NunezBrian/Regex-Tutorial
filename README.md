@@ -24,7 +24,7 @@ To view the tutorial, simply open the `README.md` file in this repository. The t
 
 ## Author
 
-This tutorial was written by [Your Name](https://github.com/your-github-profile). I am a software developer with a passion for teaching and helping others understand complex topics.
+This tutorial was written by `Brian Nunez` (https://github.com/NunezBrian). I am a software developer with a passion for teaching and helping others understand complex topics.
 
 ## License
 

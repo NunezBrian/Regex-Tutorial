@@ -69,5 +69,5 @@ Look-ahead `(?=...)` and look-behind `(?<=...)` assertions specify a match that 
 
 ## Author
 
-This tutorial was written by Brian Nunez (https://github.com/NunezBrian). I am a software developer with a passion for teaching and helping others understand complex topics.
+This tutorial was written by `Brian Nunez` (https://github.com/NunezBrian). I am a software developer with a passion for teaching and helping others understand complex topics.
 
